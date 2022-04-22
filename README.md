@@ -75,3 +75,4 @@ Rule 69: Hide in plain sight.
 Rule 70: Always be ready to go at any moment’s notice. Learn to be light and move fast.  
 Rule 71: Swift, Silent, Deadly. The only way to go about doing your business.  
 Rule 72: Think like a man of action, act like a man of thought.   
+Rule 73: Smartphones are shit. (Jack Leightcap)
