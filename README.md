@@ -1,78 +1,78 @@
-# Infosec Rules
-General rules for security, infosec, and living a life with elevated situational awareness.  Updated and edited occasionally.  
-
+# Infosec Rules – 75 Doctrine
 
 Rule 0: Always double-tap.  
 Rule 1: Always have an escape plan.  
-Rule 2: Be aware of your surroundings.  
+Rule 2: Never confuse movement with progress.  
 Rule 3: Assumption is the mother of all fuckups.  
-Rule 4: Always have a backup plan.  
-Rule 5: Never get caught.  
+Rule 4: Two is one, one is none.  
+Rule 5: The sea is never your friend, but she will take your enemies too.  
 Rule 6: Keep your mouth shut.  
-Rule 7: KISS: Keep it simple, stupid.  
+Rule 7: KISS – Simple plans live; complex plans die.  
 Rule 8: 7 Ps: Proper Planning and Preparation Prevents Piss Poor Performance.  
-Rule 9: A simple plan with a flexible blueprint will survive real world contact far better than a complex and rule-bound plan.  
-Rule 10: Prepare, execute and vanish.  
-Rule 11: You don’t have to like it-you just have to do it.  
-Rule 12: Always invest in good quality stuff.  
-Rule 13: Trust your gut.  
-Rule 14: Always carry a knife.  
-Rule 15: Do one thing at a time.  
-Rule 16: Pick your battles…  
-Rule 17: Simple and light equals freedom, agility and mobility.  
-Rule 18: Target dictates the weapon and the weapon dictates the movement.  
-Rule 19: Use ACTE: assess the situation; create a simple plan; take action and evaluate your progress.  
-Rule 20: Understand. Anticipate. Adapt.   
-Rule 21: Always keep on pushing forward, especially during those life changing moments.  
-Rule 22: Find a way to succeed.  
-Rule 23: Take calculated risks. That is quite different from being rash. (Patton)  
-Rule 24: A good plan, violently executed now, is better than a perfect plan next week. (Patton)  
-Rule 25: Don’t spend time trying to move your opponent, just move yourself.  
-Rule 26: The time to take counsel of your fears is before you make an important battle decision. That’s the time to listen to every fear you can imagine! When you have collected all the facts and fears and made your decision, turn off all your fears and go ahead! (Patton)  
-Rule 27: The more sophisticated the technology the more vulnerable it is to primitive attacks. People often overlook the obvious.  
-Rule 28: If you’re happy with your security, so are the bad guys.  
-Rule 29: Security won’t work if there are too many different security measures to manage, and/or they are too complicated or hard to use. (Colsch’s - Keep It Simple - Maxim). See Rule 7.  
-Rule 30: The quality of your friends always matters more than the quantity.  
-Rule 31: Always be surrounded by the right people.  
-Rule 32: Always provide correction in private and praise in public.  
-Rule 33: If you have a secret, the best thing is to keep it to yourself. The second-best is to tell one other person if you must. There is no third best.  
-Rule 34: When you’re with someone you love, make sure in that moment they know they’re the center of your world.  
-Rule 35: He who angers you conquers you.  
-Rule 36: Be mindful of all the possibilities in the future, but don’t be ruled by them.  
-Rule 37: Do nothing which is of no use. (Miyamoto Musashi)  
-Rule 38: Be content with what you have.  
-Rule 39: Opening the door for a lady is not optional.  
-Rule 40: Your style is defined by what makes you feel most comfortable.  
-Rule 41: Sensible defaults can reduce friction and provide simplicity anywhere one can think to apply them. (Patrick Rhone)  
-Rule 42: There’s nothing wrong with staying small. You can do big things with a small team.  
-Rule 43: Personal notes should always be handwritten, however be prepare to destroy them at a moment’s notice.  
-Rule 44: Diplomas and certifications are OK, but trust experience over a diploma any time.  
-Rule 45: The greater the level of calmness of our mind, the greater our peace of mind, the greater our ability to enjoy life.  
-Rule 46: Find something you are willing to die for.  
-Rule 47: Do not put too much value on stuff.  
-Rule 48: Don’t go into debt.  
-Rule 49: The only kind of marketing you need is an amazing product. (Leo Babauta)  
-Rule 50: Do not publish your life online, keep your life private.  
-Rule 51: Disconnect completely once in a while.  
-Rule 52: Live simply.  
-Rule 53: The GORUCK Rule - Under promise and over deliver.  
-Rule 54: When in doubt, C4. (Jamie Hyneman, Mythbusters)  
-Rule 55: Progress comes to those who train and train; reliance on secret techniques will get you nowhere. (Morihei Ueshiba)  
-Rule 56: Courage is a special kind of knowledge: the knowledge of how to fear what ought to be feared and how not to fear what ought not to be feared. (David Ben-Gurion)  
-Rule 57: Don’t ever write a check with your mouth you can’t cash with your ass. (Wiseman). See Rule 6.  
-Rule 58: If you don’t stand for something, you’ll fall for anything. (Wiseman)  
-Rule 59: Some people just need a high-five. In the face. With a chair. (Carrie Adams)  
-Rule 60: The bad guys don’t obey our security policies.  
-Rule 61: “Bad guys attack, and good guys react” is not a viable security strategy.  
-Rule 62: An adversary is most vulnerable to detection and disruption just prior to an attack.  
-Rule 63: You should only use security hardware, software, and strategies you understand.  
-Rule 64: Low-tech attacks work (even against high-tech devices and systems).  
-Rule 65: Never let them see you bleed (Q).  
-Rule 66: Don’t believe what you’re told. Double check.  
-Rule 67: Never mess with a man’s coffee if you want to live.  
-Rule 68: When overwhelmed divide the tasks in smaller subtasks, simplify.  
+Rule 9: A simple plan executed now beats a perfect plan later.  
+Rule 10: When in doubt, be aggressive.  
+Rule 11: Enthusiasm is not capability.  
+Rule 12: Buy once, cry once. Good kit saves lives.  
+Rule 13: Trust your gut. It remembers what your head forgets.  
+Rule 14: A knife is insurance. Carry one.  
+Rule 15: Slow is smooth, smooth is fast.  
+Rule 16: Pick the ground, pick the time, pick the fight.  
+Rule 17: Light gear, heavy effect.  
+Rule 18: Mission dictates kit. Kit dictates movement.  
+Rule 19: No plan survives contact intact.  
+Rule 20: Understand. Anticipate. Adapt.  
+Rule 21: When in deep water, become a shark.  
+Rule 22: Fortune favors the prepared mind. (Pasteur)  
+Rule 23: Take calculated risks. Recklessness is stupidity taxed.  
+Rule 24: Violence of action solves many problems. Timing solves the rest.  
+Rule 25: Don’t try to move your opponent. Move yourself.  
+Rule 26: Fear is useful until the decision is made. Then kill it. (Patton)  
+Rule 27: The simpler the tool, the harder it is to break.  
+Rule 28: If you feel secure, you’re already compromised.  
+Rule 29: Complexity is camouflage for incompetence.  
+Rule 30: Better a wolf among sheep than a sheep among wolves.  
+Rule 31: Your circle is your perimeter. Choose wisely.  
+Rule 32: Correct in private, praise in public.  
+Rule 33: A secret shared is a secret lost.  
+Rule 34: Make those you love your center of gravity.  
+Rule 35: He who angers you, owns you.  
+Rule 36: Eyes forward. Regret is ballast.  
+Rule 37: Do nothing which is of no use. (Musashi)  
+Rule 38: Comfort is a drug. Dose lightly.  
+Rule 39: Courtesy costs nothing, pays interest.  
+Rule 40: Style is remembered function.  
+Rule 41: Defaults are doctrine. Set them right.  
+Rule 42: Small teams do big things.  
+Rule 43: Write by hand. Burn if you must.  
+Rule 44: Experience outranks diplomas.  
+Rule 45: Calm mind. Calm gun. Calm comms.  
+Rule 46: Know what you’d die for. Know what you wouldn’t.  
+Rule 47: Own your kit. Don’t let kit own you.  
+Rule 48: Debt is slavery. Avoid chains.  
+Rule 49: Good work markets itself.  
+Rule 50: Privacy is freedom. Guard it.  
+Rule 51: Disconnect often. Reconnect intentionally.  
+Rule 52: Live simply. Complexity kills.  
+Rule 53: Under-promise. Over-deliver.  
+Rule 54: If it can’t be carried, it can’t be trusted.  
+Rule 55: Train hard, fight easy. (Suvarov)  
+Rule 56: Courage is knowing what to fear and what to ignore.  
+Rule 57: Don’t write checks your body can’t cash.  
+Rule 58: If you stand for nothing, you’ll fall for anything.  
+Rule 59: Some men only understand violence. Plan accordingly.  
+Rule 60: The enemy doesn’t care about your policy.  
+Rule 61: Initiative beats reaction.  
+Rule 62: The enemy is weakest just before he strikes.  
+Rule 63: Use only tools you understand.  
+Rule 64: Low-tech, ruthlessly applied, beats high-tech.  
+Rule 65: Never let them see you bleed.  
+Rule 66: Verify. Then verify again.  
+Rule 67: Never fuck with a man’s brew.  
+Rule 68: Break big tasks into small ones. Kill them in order.  
 Rule 69: Hide in plain sight.  
-Rule 70: Always be ready to go at any moment’s notice. Learn to be light and move fast.  
-Rule 71: Swift, Silent, Deadly. The only way to go about doing your business.  
-Rule 72: Think like a man of action, act like a man of thought.   
-Rule 73: Smartphones are shit. (Jack Leightcap)
+Rule 70: Always be ready to move at a moment’s notice.  
+Rule 71: Swift. Silent. Deadly.  
+Rule 72: Think like a man of action. Act like a man of thought.  
+Rule 73: The map is not the territory.  
+Rule 74: All warfare is deception. (Sun Tzu)  
+Rule 75: The sea does not forgive. Neither do men worth knowing.  
